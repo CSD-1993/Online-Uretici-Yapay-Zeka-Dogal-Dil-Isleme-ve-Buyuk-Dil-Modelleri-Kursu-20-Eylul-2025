@@ -1,1 +1,1 @@
-# Do-al-Dil-leme-ve-B-y-k-Dil-Modelleri
+# Doğal Dil İşleme ve Büyük Dil Modelleri
