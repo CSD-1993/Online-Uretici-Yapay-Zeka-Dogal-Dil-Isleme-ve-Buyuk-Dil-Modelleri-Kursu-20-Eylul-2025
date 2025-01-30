@@ -11,8 +11,8 @@
 
 
 ## Kursla ilgili bağlantılar
-+ [Kursun Genel Tanıtımı]()
-+ [Kurs İçeriği]()
-+ [Sık Sorulan Sorular]()
++ [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Dogal-Dil-Isleme-ve-Buyuk-Dil-Modelleri/blob/main/kurs_tanitimi.md)
++ [Kurs İçeriği](https://github.com/CSD-1993/Dogal-Dil-Isleme-ve-Buyuk-Dil-Modelleri/blob/main/kurs_icerigi.md)
++ [Sık Sorulan Sorular](https://github.com/CSD-1993/Dogal-Dil-Isleme-ve-Buyuk-Dil-Modelleri/blob/main/sss.md)
 + [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.]()
 
