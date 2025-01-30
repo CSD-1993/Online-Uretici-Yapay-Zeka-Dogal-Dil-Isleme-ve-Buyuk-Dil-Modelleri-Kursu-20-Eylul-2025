@@ -1,7 +1,6 @@
 ## Online Doğal Dil İşleme ve Büyük Dil Modelleri - Genel Tanıtım
-<b>Python</b> 
 
-Bu kurs 
+
 
 ## Ön Koşul
 
