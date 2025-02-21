@@ -1,4 +1,4 @@
-# Doğal Dil İşleme ve Büyük Dil Modelleri
+# Online Doğal Dil İşleme ve Büyük Dil Modelleri Kursu
 
 
 + Kurs __[C ve Sistem Programcıları Derneği](http://www.csystem.org/)__ tarafından __"Sistem Bilgisayar"__ işbirliği ile düzenlenmektedir.
