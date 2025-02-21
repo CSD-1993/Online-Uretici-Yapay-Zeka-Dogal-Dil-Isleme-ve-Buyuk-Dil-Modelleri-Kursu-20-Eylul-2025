@@ -12,7 +12,7 @@ Aşağıda __Kaan Aslan__ tarafından verilen __Online Doğal Dil İşleme ve B�
 + Kesin kayıt yaptıran tüm öğrencilerimiz yapılan dersin kaydını ileteceğimiz VIMEO bağlantısı üzerinden izleyebilirler.
 
 ### 250 saatlik bir kurs süresi çok uzun değil mi?
-+ Eğitim içeriği göz önüne alındığında `250` saatlik kurs süresinin kesinlikle uzun olmadığını söyleyebiliriz. 
++ Eğitim içeriği göz önüne alındığında __250__ saatlik kurs süresinin kesinlikle uzun olmadığını söyleyebiliriz. 
 
 ### Yurt dışında çalışıyorum / öğrenciyim. Derslere yurt dışından katılmam mümkün mü?
 + Tabi ki. 
