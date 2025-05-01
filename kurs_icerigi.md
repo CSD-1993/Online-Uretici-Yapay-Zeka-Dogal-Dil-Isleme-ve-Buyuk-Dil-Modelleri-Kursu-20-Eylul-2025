@@ -2,6 +2,9 @@
 
 
 
+
+
+
 # Kursa Kayıt
 [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/vU-RcHeIQou-v1cOSrDDbA#/registration)
 
