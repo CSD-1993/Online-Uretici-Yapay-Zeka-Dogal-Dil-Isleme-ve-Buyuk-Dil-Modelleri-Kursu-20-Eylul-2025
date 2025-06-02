@@ -1,4 +1,4 @@
-# Online Üretken Yapay Zeka Doğal Dil İşleme ve Büyük Dil Modelleri Kursu <br> -  (350 saat)
+# Online Üretici Yapay Zeka Doğal Dil İşleme ve Büyük Dil Modelleri Kursu <br> -  (350 saat)
 
 
 
