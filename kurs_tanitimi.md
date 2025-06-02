@@ -5,7 +5,8 @@ Kursumuz başlayana kadar Derneğimizin açmış olduğu, "Yapay Zeka, Makine Ö
 https://raw.githubusercontent.com/CSD-1993/KursNotlari/refs/heads/master/YapayZeka-MakineOgrenmesi-VeriBilimi-OzetNotlar-Ornekler.txt
 
 ## Ön Koşul
- Temel düzeyde Python Programlama Dili bilgisine sahip olmak. Kursumuza yapay zeka, makine öğrenmesi ve veri bilimi konularına ilgi duyan herkes katılabilir.
+ Temel düzeyde Python Programlama Dili bilgisine sahip olmak.
+ Kursumuza yapay zeka, makine öğrenmesi ve veri bilimi konularına ilgi duyan herkes katılabilir.
 
 ## Eğitim Süresi
 Eğitim Süresi __350__ Saattir.
