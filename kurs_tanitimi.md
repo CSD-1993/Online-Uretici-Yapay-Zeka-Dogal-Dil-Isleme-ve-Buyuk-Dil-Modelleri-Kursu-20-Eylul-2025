@@ -1,6 +1,9 @@
 ## Online Üretici Yapay Zeka Doğal Dil İşleme ve Büyük Dil Modelleri - Genel Tanıtım
 Bu kursumuz üretici ağlar, doğal dil işleme ve büyük dil modellerini çeşitli düzeylerde kapsamlı bir biçimde ele almaktadır. Kursumuz yapay zeka alanında devrimsel bir etkiye yol açan bu teknolojilerin teorik altyapıları ve gerçekleştirimleri konusunda uygulamalı bilgiler vermeyi ve beceriler kazandırmayı hedeflemektedir
 
+Kursumuz başlayana kadar Derneğimizin açmış olduğu, "Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi" kurs notlarımızı gözden geçirebilirsiniz.
+https://raw.githubusercontent.com/CSD-1993/KursNotlari/refs/heads/master/YapayZeka-MakineOgrenmesi-VeriBilimi-OzetNotlar-Ornekler.txt
+
 ## Ön Koşul
  Temel düzeyde Python Programlama Dili bilgisine sahip olmak. Kursumuza yapay zeka, makine öğrenmesi ve veri bilimi konularına ilgi duyan herkes katılabilir.
 
