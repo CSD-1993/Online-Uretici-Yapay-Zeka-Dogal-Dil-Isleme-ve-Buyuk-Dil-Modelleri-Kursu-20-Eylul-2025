@@ -1,4 +1,4 @@
-# Online Üretici Yapay Zeka Doğal Dil İşleme ve Büyük Dil Modelleri Kursu
+# Online Üretici Yapay Zeka Doğal Dil İşleme ve Büyük Dil Modelleri Kursu 20 Eylül 2025
 
 
 + Kurs __[C ve Sistem Programcıları Derneği](http://www.csystem.org/)__ tarafından __"Sistem Bilgisayar"__ işbirliği ile düzenlenmektedir.
